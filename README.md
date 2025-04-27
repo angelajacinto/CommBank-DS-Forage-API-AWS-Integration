@@ -5,7 +5,7 @@ Commonwealth Bank Data Science Virtual Experience
 This project implements a serverless Twitter data pipeline using AWS services:
 
 ## Architecture
-![Architecture Diagram](AWS%20Lambda%20Functions/lambda_s3_to_rds/model-architecture.drawio.png)
+![Architecture Diagram](AWS%20Lambda%20Functions/model-architecture.drawio.png)
 
 ## AWS Lambda
 - **Function 1**: Collects tweets from Twitter API and stores in S3
