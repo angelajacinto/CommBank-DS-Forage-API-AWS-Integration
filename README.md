@@ -1,8 +1,6 @@
-## AWS Twitter Data Pipeline
+# CommBank-DS-Forage-API-AWS-Integration-Virtual Experience
 This project implements a serverless Twitter data pipeline using AWS services:
 
-# CommBank-DS-Forage-API-AWS-Integration
-Commonwealth Bank Data Science Virtual Experience
 
 ## Architecture
 ![Architecture Diagram](AWS%20Lambda%20Functions/model-architecture.drawio.png)
